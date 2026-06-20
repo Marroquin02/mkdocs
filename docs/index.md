@@ -1,6 +1,6 @@
 # NestJS Framework
 
-![NestJS Logo](img/nestjs-logo.png)
+![NestJS Logo](img/nestjs-logo.svg)
 
 Bienvenido a la documentación de **NestJS**, un framework progresivo de Node.js para construir aplicaciones del lado del servidor eficientes, escalables y confiables.
 
